@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4183088a-7fca-4706-b7ef-3a1c457179bc" name="Changes" comment="Added Git ignore">
+      <change afterPath="$PROJECT_DIR$/KotlinTopics/src/KotlinArray/Example1.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTopics/META-INF/KotlinTopics.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinTopics/META-INF/KotlinTopics.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTopics/designpattern/ceationalPatterns/DatabaseManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinTopics/designpattern/ceationalPatterns/DatabaseManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTopics/designpattern/ceationalPatterns/SingletonPattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTopics/designpattern/ceationalPatterns/SingletonPatternKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinTopics/designpattern/ceationalPatterns/SingletonPatternKt.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "pratikpathak"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/pratikpathak/KotlinTutorials.git",
+    "accountId": "27cade9a-7be7-4769-97f5-f77c3e464be0"
+  }
+}]]></component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.3208764700543005" />
+      <entry key="MS500" value="3.888858629180506" />
+      <entry key="S2" value="6.98534825991475" />
+      <entry key="S5" value="8.101643815617454" />
+      <entry key="S10" value="8.533567299638797" />
+      <entry key="S30" value="8.840498738553254" />
+      <entry key="S60" value="8.919734060382208" />
+      <entry key="M2" value="8.959757016775509" />
+      <entry key="M5" value="9.049686126700456" />
+      <entry key="M10" value="10.213553663751068" />
+      <entry key="M15" value="12.454072033743746" />
+      <entry key="M30" value="21.58349048582911" />
+      <entry key="H1" value="44.70785666151996" />
+      <entry key="H2" value="83.13924140551323" />
+      <entry key="H4" value="122.38003785753762" />
+      <entry key="D1" value="175.24587762934303" />
+      <entry key="W1" value="186.95726361641442" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="1.1467177855190811E-278" />
+      <entry key="S5" value="6.664730910134762E-112" />
+      <entry key="S10" value="2.581614012638673E-56" />
+      <entry key="S30" value="2.956481418170338E-19" />
+      <entry key="S60" value="5.593575190385725E-10" />
+      <entry key="M2" value="3.0484235567056125E-5" />
+      <entry key="M5" value="0.03355265027534054" />
+      <entry key="M10" value="0.39855368493778187" />
+      <entry key="M15" value="0.9447496364308258" />
+      <entry key="M30" value="2.5092867544595707" />
+      <entry key="H1" value="4.633965971672892" />
+      <entry key="H2" value="6.656300772358557" />
+      <entry key="H4" value="8.11120632400201" />
+      <entry key="D1" value="9.649223130724744" />
+      <entry key="W1" value="9.948919246890028" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.275885198209743" />
+      <entry key="MS500" value="3.852036627376586" />
+      <entry key="S2" value="6.966496440372642" />
+      <entry key="S5" value="8.092742610162386" />
+      <entry key="S10" value="8.52885623317916" />
+      <entry key="S30" value="8.838866990528846" />
+      <entry key="S60" value="8.918910282816386" />
+      <entry key="M2" value="8.959372939840343" />
+      <entry key="M5" value="9.0826532356118" />
+      <entry key="M10" value="10.609330352830025" />
+      <entry key="M15" value="13.394381632946804" />
+      <entry key="M30" value="24.08663616760565" />
+      <entry key="H1" value="49.33593065511037" />
+      <entry key="H2" value="89.79120564037083" />
+      <entry key="H4" value="130.48856593720387" />
+      <entry key="D1" value="184.89456333701926" />
+      <entry key="W1" value="196.906103535528" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3IaUA6donPu9vgr09R4T96Bf2CV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Kotlin.ArithmeticExceptionKt.executor": "Run",
+    "Kotlin.ArrayIndexOfBoundExceptionKt.executor": "Run",
+    "Kotlin.Example1Kt.executor": "Run",
+    "Kotlin.MainKt.executor": "Run",
+    "Kotlin.SingletonPatternKt.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/pratikpathak/Documents/KotlinTutorials1/KotlinTopics/src/Main.kt",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Kotlin.ArrayIndexOfBoundExceptionKt">
+    <configuration name="ArithmeticExceptionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExceptionHandling.ArithmeticExceptionKt" />
+      <module name="KotlinTopics" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayIndexOfBoundExceptionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExceptionHandling.ArrayIndexOfBoundExceptionKt" />
+      <module name="KotlinTopics" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KotlinArray.Example1Kt" />
+      <module name="KotlinTopics" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainKt" />
+      <module name="KotlinTopics" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingletonPatternKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="designpattern.ceationalPatterns.SingletonPatternKt" />
+      <module name="KotlinTopics" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.ArrayIndexOfBoundExceptionKt" />
+        <item itemvalue="Kotlin.ArithmeticExceptionKt" />
+        <item itemvalue="Kotlin.Example1Kt" />
+        <item itemvalue="Kotlin.SingletonPatternKt" />
+        <item itemvalue="Kotlin.MainKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-34e2839f716b-intellij.indexing.shared.core-IU-262.9437.185" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.9437.185" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4183088a-7fca-4706-b7ef-3a1c457179bc" name="Changes" comment="" />
+      <created>1788002026532</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1788002026532</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Created Kotlin File" />
+    <MESSAGE value="Added Git ignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Git ignore" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/KotlinTopics/src/Main.kt</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
