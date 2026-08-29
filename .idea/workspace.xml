@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4183088a-7fca-4706-b7ef-3a1c457179bc" name="Changes" comment="Added Git ignore">
-      <change afterPath="$PROJECT_DIR$/KotlinTopics/src/KotlinArray/Example1.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinTopics/META-INF/KotlinTopics.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinTopics/META-INF/KotlinTopics.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinTopics/designpattern/ceationalPatterns/DatabaseManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinTopics/designpattern/ceationalPatterns/DatabaseManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinTopics/designpattern/ceationalPatterns/SingletonPattern.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinTopics/designpattern/ceationalPatterns/SingletonPatternKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinTopics/designpattern/ceationalPatterns/SingletonPatternKt.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,118 +24,118 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "pratikpathak"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;pratikpathak&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/pratikpathak/KotlinTutorials.git",
-    "accountId": "27cade9a-7be7-4769-97f5-f77c3e464be0"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/pratikpathak/KotlinTutorials.git&quot;,
+    &quot;accountId&quot;: &quot;27cade9a-7be7-4769-97f5-f77c3e464be0&quot;
   }
-}]]></component>
+}</component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.3208764700543005" />
-      <entry key="MS500" value="3.888858629180506" />
-      <entry key="S2" value="6.98534825991475" />
-      <entry key="S5" value="8.101643815617454" />
-      <entry key="S10" value="8.533567299638797" />
-      <entry key="S30" value="8.840498738553254" />
-      <entry key="S60" value="8.919734060382208" />
-      <entry key="M2" value="8.959757016775509" />
-      <entry key="M5" value="9.049686126700456" />
-      <entry key="M10" value="10.213553663751068" />
-      <entry key="M15" value="12.454072033743746" />
-      <entry key="M30" value="21.58349048582911" />
-      <entry key="H1" value="44.70785666151996" />
-      <entry key="H2" value="83.13924140551323" />
-      <entry key="H4" value="122.38003785753762" />
-      <entry key="D1" value="175.24587762934303" />
-      <entry key="W1" value="186.95726361641442" />
-    </decayedCancelled>
-    <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
-      <entry key="S2" value="1.1467177855190811E-278" />
-      <entry key="S5" value="6.664730910134762E-112" />
-      <entry key="S10" value="2.581614012638673E-56" />
-      <entry key="S30" value="2.956481418170338E-19" />
-      <entry key="S60" value="5.593575190385725E-10" />
-      <entry key="M2" value="3.0484235567056125E-5" />
-      <entry key="M5" value="0.03355265027534054" />
-      <entry key="M10" value="0.39855368493778187" />
-      <entry key="M15" value="0.9447496364308258" />
-      <entry key="M30" value="2.5092867544595707" />
-      <entry key="H1" value="4.633965971672892" />
-      <entry key="H2" value="6.656300772358557" />
-      <entry key="H4" value="8.11120632400201" />
-      <entry key="D1" value="9.649223130724744" />
-      <entry key="W1" value="9.948919246890028" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="2.4586278022238783E-263" />
+      <entry key="S10" value="1.4566720002477617E-131" />
+      <entry key="S30" value="1.704455990455508E-43" />
+      <entry key="S60" value="2.314164228096492E-21" />
+      <entry key="M2" value="2.8420590267064404E-10" />
+      <entry key="M5" value="0.0013016850734124713" />
+      <entry key="M10" value="0.22333582778149813" />
+      <entry key="M15" value="1.3017148445621198" />
+      <entry key="M30" value="8.812733463603719" />
+      <entry key="H1" value="30.512568717562242" />
+      <entry key="H2" value="71.82125672544984" />
+      <entry key="H4" value="120.61812359739098" />
+      <entry key="D1" value="195.16204043174872" />
+      <entry key="W1" value="212.87021189347718" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0" />
+      <entry key="S30" value="1.0" />
+      <entry key="S60" value="1.0" />
+      <entry key="M2" value="1.0000000000000002" />
+      <entry key="M5" value="1.0000011554000323" />
+      <entry key="M10" value="1.0023387812394484" />
+      <entry key="M15" value="1.0307363232667675" />
+      <entry key="M30" value="1.4526034759929418" />
+      <entry key="H1" value="2.968052301656451" />
+      <entry key="H2" value="5.337853048447796" />
+      <entry key="H4" value="7.547965725836404" />
+      <entry key="D1" value="10.310989581890185" />
+      <entry key="W1" value="10.8983343358349" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.275885198209743" />
-      <entry key="MS500" value="3.852036627376586" />
-      <entry key="S2" value="6.966496440372642" />
-      <entry key="S5" value="8.092742610162386" />
-      <entry key="S10" value="8.52885623317916" />
-      <entry key="S30" value="8.838866990528846" />
-      <entry key="S60" value="8.918910282816386" />
-      <entry key="M2" value="8.959372939840343" />
-      <entry key="M5" value="9.0826532356118" />
-      <entry key="M10" value="10.609330352830025" />
-      <entry key="M15" value="13.394381632946804" />
-      <entry key="M30" value="24.08663616760565" />
-      <entry key="H1" value="49.33593065511037" />
-      <entry key="H2" value="89.79120564037083" />
-      <entry key="H4" value="130.48856593720387" />
-      <entry key="D1" value="184.89456333701926" />
-      <entry key="W1" value="196.906103535528" />
+      <entry key="MS100" value="6.354208278525062E-4" />
+      <entry key="MS500" value="0.22940997057784124" />
+      <entry key="S2" value="0.69207485802574" />
+      <entry key="S5" value="0.863100223202516" />
+      <entry key="S10" value="0.9290318741585328" />
+      <entry key="S30" value="0.9757611848225023" />
+      <entry key="S60" value="0.9878062486249529" />
+      <entry key="M2" value="0.9938844244628586" />
+      <entry key="M5" value="0.998852073340988" />
+      <entry key="M10" value="1.2244310441158632" />
+      <entry key="M15" value="2.3314849243071065" />
+      <entry key="M30" value="10.26380882457543" />
+      <entry key="H1" value="33.47790067434017" />
+      <entry key="H2" value="77.15617108035588" />
+      <entry key="H4" value="128.16386970892134" />
+      <entry key="D1" value="205.4725016313799" />
+      <entry key="W1" value="223.76846589959578" />
     </decayedShown>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7,
-  "fromUser": false
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3IaUA6donPu9vgr09R4T96Bf2CV" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Kotlin.ArithmeticExceptionKt.executor": "Run",
-    "Kotlin.ArrayIndexOfBoundExceptionKt.executor": "Run",
-    "Kotlin.Example1Kt.executor": "Run",
-    "Kotlin.MainKt.executor": "Run",
-    "Kotlin.SingletonPatternKt.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
-    "junie.onboarding.icon.badge.shown": "true",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.jshint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.jshint": "",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/Users/pratikpathak/Documents/KotlinTutorials1/KotlinTopics/src/Main.kt",
-    "to.speed.mode.migration.done": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Kotlin.ArithmeticExceptionKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.ArrayIndexOfBoundExceptionKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Example1Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.MainKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.SingletonPatternKt.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/pratikpathak/Documents/KotlinTutorials1/KotlinTopics/src/Main.kt&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Kotlin.ArrayIndexOfBoundExceptionKt">
     <configuration name="ArithmeticExceptionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ExceptionHandling.ArithmeticExceptionKt" />
