@@ -5,3 +5,4 @@ build/
 out/
 local.properties
 workspace.xml
+.idea/workspace.xml
